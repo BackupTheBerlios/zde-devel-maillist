@@ -1,0 +1,19 @@
+From thisnukes4u at gmail.com  Sun Jul  9 19:17:22 2006
+From: thisnukes4u at gmail.com (Thomas Coppi)
+Date: Sun, 09 Jul 2006 10:17:22 -0700
+Subject: [Zde-devel] Test
+Message-ID: <44B13A22.8030003@gmail.com>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+This is a test.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.3 (GNU/Linux)
+
+iD8DBQFEsToilU6kaExSKKoRAj5qAKCRtRXRb0abMtEuL22ZHtMJ7EvFWQCg2wHw
+2TY+9BU3CTU8gPKgyM0cME8=
+=l0PB
+-----END PGP SIGNATURE-----
+
+
